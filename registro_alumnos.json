@@ -1,0 +1,39 @@
+[
+    {
+        "id": "dfe071f9-089c-4bcb-8a6f-f82cce87aa12",
+        "nombres": "Cesar",
+        "Notas": [
+            12.0,
+            14.0,
+            15.0,
+            17.0
+        ],
+        "Promedio": 14.5,
+        "Nota_maxima": 17.0,
+        "Nota_minima": 12.0
+    },
+    {
+        "id": "e8ff62d2-437d-4076-af36-db3d917c1366",
+        "nombres": "Rodrigo",
+        "Notas": [
+            12.0,
+            15.0,
+            16.0,
+            20.0
+        ],
+        "Promedio": 15.75,
+        "Nota_maxima": 20.0,
+        "Nota_minima": 12.0
+    },
+    {
+        "id": "6a1ab883-2da5-4480-be71-0adb9aa3efe8",
+        "nombres": "pepito",
+        "Notas": [
+            14.0,
+            16.0
+        ],
+        "Promedio": 15.0,
+        "Nota_maxima": 16.0,
+        "Nota_minima": 14.0
+    }
+]
